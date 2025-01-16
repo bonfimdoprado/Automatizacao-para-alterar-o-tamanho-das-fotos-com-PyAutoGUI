@@ -29,12 +29,12 @@ Os softwares utilizados neste projeto foram:
 
 ## Script:
 
-import pyautogui as pg
-import time
 
-repeticoes = 201
+ import pyautogui as pg
+ import time
 
-for i in range(repeticoes):
+ repeticoes = 201
+ for i in range(repeticoes):
     print(f"Iniciando repetição {i + 1} de {repeticoes}...")
     time.sleep(1)
 
@@ -94,7 +94,6 @@ for i in range(repeticoes):
 
     pg.press('right')
     time.sleep(0.5)    
-    
     print(f"Repetição {i + 1} concluída.\n")
    
 
