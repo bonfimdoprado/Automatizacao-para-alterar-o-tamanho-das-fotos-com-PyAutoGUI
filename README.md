@@ -32,10 +32,7 @@ Os softwares utilizados neste projeto foram:
 import pyautogui as pg
 import time
 
-# Número de repetições
-# Alterar para a quantidade de imagens que for ser alterada
 repeticoes = 201
-
 
 for i in range(repeticoes):
     print(f"Iniciando repetição {i + 1} de {repeticoes}...")
