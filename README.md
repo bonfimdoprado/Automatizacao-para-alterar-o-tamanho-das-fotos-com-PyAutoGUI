@@ -1,0 +1,1 @@
+# Automatizando-a-Altera-o-de-Tamanho-de-Fotos-com-PyAutoGUI
