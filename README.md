@@ -1,4 +1,4 @@
-# Automatizando a Alteração de Tamanho de Fotos com PyAutoGUI
+# Automatizacao para alterar o tamanho das fotos com PyAutoGUI
 
 ## Descrição do Projeto </h1>
 Neste projeto, criei uma automação utilizando a biblioteca PyAutoGUI do Python para otimizar o processo de diminuição do tamanho de imagens em um e-commerce que utiliza a plataforma TRAY. A plataforma exige que as fotos carregadas tenham menos de 350 kB. Antes dessa automação, esse processo era realizado manualmente, o que consumia muito tempo e reduzia a produtividade.
